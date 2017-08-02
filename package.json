@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "react": "^15.4.1",
-    "react-borealis": "git+https://github.com/UMNLibraries/react-borealis.git#45219ab28f57",
     "react-citation": "git+https://github.com/UMNLibraries/react-citation.git#51682c87e55bd",
     "react-dom": "^15.4.1"
   },
