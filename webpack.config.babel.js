@@ -21,7 +21,7 @@ module.exports = {
   output: {
     path: resolve('dist'),
     filename: 'react-citation-demo.js',
-    publicPath: '/dist/',
+    publicPath: '/',
     pathinfo: true,
   },
 };
